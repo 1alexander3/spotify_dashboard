@@ -31,8 +31,16 @@ The dataset includes the following key features:
 
 # Key Features of the Power BI Project
 
-Integration of ChatGPT for enriching Spotify data with Python code.
-Utilization of Spotify's API to access album cover image URLs.
-Creation of HTML visuals for enhanced dashboard presentation.
-Implementation of glass morphism backgrounds for aesthetic appeal.
-Generation of KPI cards and heat maps for data analysis.
+* Integration of ChatGPT for enriching Spotify data with Python code.
+* Utilization of Spotify's API to access album cover image URLs.
+* Creation of HTML visuals for enhanced dashboard presentation.
+* Implementation of glass morphism backgrounds for aesthetic appeal.
+* Generation of KPI cards and heat maps for data analysis.
+
+# Potential Use Cases
+
+* Music analysis: Explore patterns in audio features to understand trends and preferences in popular songs.
+* Platform comparison: Compare the song's popularity across different music platforms.
+* Artist impact: Analyze how artist involvement and attributes relate to a song's success.
+* Temporal trends: Identify any shifts in music attributes and preferences over time.
+* Cross-platform presence: Investigate how songs perform across different streaming services.
